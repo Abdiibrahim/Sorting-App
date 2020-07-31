@@ -1,4 +1,4 @@
-# Mapsted Test Case - Abdi Ibrahim
+# Test Case - Abdi Ibrahim
 
 ## Description
 An in-depth paragraph about your project and overview of use.
