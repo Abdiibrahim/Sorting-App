@@ -1,7 +1,9 @@
 # Test Case - Abdi Ibrahim
 
 ## Description
-An in-depth paragraph about your project and overview of use.
+Sorting application using React, Node, and SQlite.
+Sorts strings and integers and stores to local database.
+Outputs all sorting steps.
 
 ## Getting Started
 
