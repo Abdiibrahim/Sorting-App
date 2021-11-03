@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "is-empty": "^1.2.0",
     "sqlite3": "^5.0.0",
-    "validator": "^13.1.1"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "eslint": "^7.5.0"
